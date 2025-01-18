@@ -63,7 +63,7 @@ vendor_management_project=st.Page(
 )
 loan_calculator=st.Page(
     page="pages/Loan_calculator.py",
-    title="Loan Caclulator",
+    title="Loan Calculator",
     icon=":material/account_balance:",
 )
 
