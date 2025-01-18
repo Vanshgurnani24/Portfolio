@@ -32,7 +32,7 @@ with col2:
 # Qualifications and expiriences
 
 st.write("\n")
-st.subheader("Expirence And Qualifications",anchor=False,divider='red')
+st.subheader("Experience And Qualifications",anchor=False,divider='red')
 st.write(
     """
         -  Nearly a year of experience in designing and developing robust CRUD applications.
