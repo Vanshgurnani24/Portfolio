@@ -36,7 +36,7 @@ st.subheader("Experience And Qualifications",anchor=False,divider='red')
 st.write(
     """
         -  Nearly a year of experience in designing and developing robust CRUD applications.
-        - Strong hands on expirence and knowledge in Python, Excel and SQL.
+        - Strong hands on experience and knowledge in Python, Excel and SQL.
         - Good understanding of CRUD applications.
         - A collaborative team player and leader, efficiently managing tasks to deliver high-quality results.
     """
@@ -44,16 +44,35 @@ st.write(
 
 
 # Skills
-
+#Hard Skills
 st.write("\n")
 st.subheader("Hard Skills",anchor=False,divider='green')
 st.write(
     """
-    - Programming: Python (Pandas, Numpy, Matplotlib, Seaborn), SQL, HTML, CSS
+    - Technologies: Frontend Developer, Backend Developer, CRUD Developer.
+    - Programming: Python, SQL, HTML, CSS,C,C++.
+    - Frameworks: Pandas, Numpy, Matplotlib, Seaborn, Scikit, Streamlit, Flask.
     - Data Visualization: MS Excel, PowerBi, Plotly 
     - Databases: MySQL
     """
 )
+
+#Soft Skills
+st.write("\n")
+st.subheader("Soft Skills",anchor=False,divider='blue')
+st.write(
+    """
+    - Leadership
+    - Creativity
+    - Communications
+    - Public Speaking
+    - Time Management
+    - Problem Solving
+    """
+)
+
+
+
 
 st.markdown("---")
 st.html("<H1 style='text-align: center;'>Feel free to reach out!</H1>")
