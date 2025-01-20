@@ -77,7 +77,7 @@ with st.expander("View Address",icon=':material/home:'):
 st.write("\n")
 st.subheader("Online Outlets",divider='blue')
 b1,b2=st.columns(2,gap='medium')
-if b1.button("Meesho",key='meesho-outlet-button',use_container_width=True):
+if b1.button("Myntra",key='meesho-outlet-button',use_container_width=True):
     st.info("The Launch of Our Online Outlet is Just Around the Corner.")
 if b2.button("Amazon",key='amazon-outlet-button',use_container_width=True):
     st.info("The Launch of Our Online Outlet is Just Around the Corner.")
