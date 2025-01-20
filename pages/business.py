@@ -53,8 +53,8 @@ c1.write("""
     """)
 c2.write("""
         - Blazers
-        - 5 peice tuxedo
-        - 3 peice tuxedo
+        - 5 piece tuxedo
+        - 3 piece tuxedo
         - Rainwear
         - Socks & Hosiery
         - Denim Jackets
