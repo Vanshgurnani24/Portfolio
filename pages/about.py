@@ -52,8 +52,11 @@ st.write(
     - Technologies: Frontend Developer, Backend Developer, CRUD Developer.
     - Programming: Python, SQL, HTML, CSS,C,C++.
     - Frameworks: Pandas, Numpy, Matplotlib, Seaborn, Scikit, Streamlit, Flask.
-    - Data Visualization: MS Excel, PowerBi, Plotly 
-    - Databases: MySQL
+    - Data Visualization: MS Excel, PowerBi, Plotly. 
+    - Video Editing: Adobe Premiere pro, Adobe After Effects, Wondershare Filmora, Sony Vegas Pro, DaVinci Resolve.
+    - Photo Editing: Adobe Photoshop, Adobe Lightroom, Canva.
+    - Vector Base Editing: Adobe Illustrator.
+    - Databases: MySQL.
     """
 )
 
