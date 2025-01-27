@@ -360,3 +360,9 @@
   transform: translate(-50%, 50%);
   opacity: 1;
 }
+
+
+/* Styling descriptions */
+.mhm-descritpion{
+  color: #FBCEB1;
+}

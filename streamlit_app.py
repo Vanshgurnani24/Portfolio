@@ -66,6 +66,11 @@ loan_calculator=st.Page(
     title="Loan Calculator",
     icon=":material/account_balance:",
 )
+MHM=st.Page(
+    page="pages/MHM.py",
+    title="Mental Health Management System",
+    icon=":material/medication:"
+)
 
 
 
@@ -76,7 +81,7 @@ loan_calculator=st.Page(
 pg=st.navigation(
     {
         "Info":[about_page],
-        "Projects":[chatbot_project,vendor_management_project,loan_calculator],
+        "Projects":[chatbot_project,vendor_management_project,loan_calculator,MHM],
         "Businesses":[my_shop_page,sitaram_fab_page],
     }
 )
