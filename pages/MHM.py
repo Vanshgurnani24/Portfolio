@@ -6,7 +6,7 @@ class MentalHealthManagement:
         col1,col2=st.columns(2,gap='medium',vertical_alignment='center')
         with col1:
             st.html("""<p class='mhm-descritpion'>
-                    This project have system for monitoring and supporting the mental health of children. It involves tailored surveillance, specialized assessment tools, and a dynamic tracking platform. By amalgamating data from diverse sources and employing technology-driven solutions, the project aims to provide timely interventions and foster a supportive environment for children's mental well-being
+                    This project has a system for monitoring and supporting the mental health of children. It involves tailored surveillance, specialized assessment tools, and a dynamic tracking platform. By amalgamating data from diverse sources and employing technology-driven solutions, the project aims to provide timely interventions and foster a supportive environment for children's mental well-being
                 </p>""")
         with col2:
             st.subheader(":red[This project is still under development :material/construction:]",anchor=False)
